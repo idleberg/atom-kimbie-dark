@@ -6,7 +6,7 @@ A color scheme inspired by [Cold Spring Fault Less Youth](http://www.discogs.com
 
 ## Installation
 
-### APM
+### apm
 
 Make sure you have [Atom](https://atom.io/) (with apm) installed
 
