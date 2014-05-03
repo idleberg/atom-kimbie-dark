@@ -2,15 +2,14 @@
 
 A color scheme inspired by [Cold Spring Fault Less Youth](http://www.discogs.com/Mount-Kimbie-Cold-Spring-Fault-Less-Youth/master/561611), the second album by British band Mount Kimbie.
 
-![Animated Screenshot](https://raw.github.com/idleberg/atom-kimbie-dark/master/screenshot.png)
+![Screenshot](https://raw.githubusercontent.com/idleberg/atom-kimbie-dark/master/screenshot.png)
 
 ## Installation
 
 ### apm
 
-Make sure you have [Atom](https://atom.io/) (with apm) installed
-
-Use Atom Package Manager to install theme `apm install kimbie-dark`
+* Make sure you have [Atom](https://atom.io/) (with apm) installed
+* Install theme`apm install kimbie-dark`
 
 ### GitHub
 
