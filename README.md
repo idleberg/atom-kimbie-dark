@@ -6,6 +6,14 @@ A color scheme inspired by [Cold Spring Fault Less Youth](http://www.discogs.com
 
 ## Installation
 
+### APM
+
+Make sure you have [Atom](https://atom.io/) (with apm) installed
+
+Use Atom Package Manager to install theme `apm install kimbie-dark`
+
+### GitHub
+
 1. Change directory to `~/atom/packages/`
 2. Clone repository `git clone https://github.com/idleberg/atom-kimbie-light.git`
 3. Enable theme from the *Atom/Preferences* menu
