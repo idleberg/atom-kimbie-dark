@@ -1,0 +1,11 @@
+{
+  "name": "Kimbie (dark)",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "Color scheme inspired by Mount Kimbie's second album",
+  "repository": "https://github.com/idleberg/Kimbie-Atom",
+  "license": "CC-BY-SA 4.0",
+  "engines": {
+    "atom": ">0.50.0"
+  }
+}
