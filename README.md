@@ -8,6 +8,23 @@ A color scheme inspired by [Cold Spring Fault Less Youth](http://www.discogs.com
 
 ![Screenshot](https://raw.githubusercontent.com/idleberg/atom-kimbie-dark/master/screenshot.png)
 
+Also [available](https://github.com/search?q=%40idleberg+kimbie) for these apps:
+
+* Atom
+* BBEdit
+* CodeMirror
+* Google Code Prettify
+* highlight.js
+* IDEA
+* Mou
+* Notepad++
+* Rainbow
+* [Sublime Text](https://github.com/idleberg/Kimbie.tmTheme)
+* Terminal
+* TextMate
+* Windows Command Prompt
+* Xcode
+
 ## Installation
 
 ### apm
