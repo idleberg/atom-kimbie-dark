@@ -29,7 +29,7 @@ Also [available](https://github.com/search?q=%40idleberg+kimbie) for these apps:
 
 ### apm
 
-* Install theme`apm install kimbie-dark` or use the GUI
+* Install theme`apm install kimbie-dark` (or use the GUI)
 
 ### GitHub
 
