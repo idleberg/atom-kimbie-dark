@@ -34,7 +34,7 @@ Also [available](https://github.com/search?q=%40idleberg+kimbie) for these apps:
 
 ### GitHub
 
-1. Change directory to `~/.atom/packages/`
+1. Change directory `cd ~/.atom/packages/`
 2. Clone repository `git clone https://github.com/idleberg/atom-kimbie-light kimbie-dark`
 3. Enable theme from the *Atom/Preferences* menu
 
