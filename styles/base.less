@@ -1,19 +1,21 @@
 // Atom template by Jan T. Sott (https://github.com/idleberg/)
 // Base16 scheme and Base16 Builder by Chris Kempson (https://github.com/chriskempson)
 
-@import "syntax-variables.less";
+@import 'syntax-variables';
+
 atom-text-editor,
 :host {
-  color: @syntax-text-color;
   background-color: @syntax-background-color;
+  color: @syntax-text-color;
+
   .gutter {
-    color: @syntax-gutter-text-color;
     background-color: @syntax-gutter-background-color;
+    color: @syntax-gutter-text-color;
   }
 
   .gutter .line-number.cursor-line {
-    color: @syntax-gutter-text-color-selected;
     background-color: @syntax-gutter-background-color-selected;
+    color: @syntax-gutter-text-color-selected;
   }
 
   .gutter .line-number.cursor-line-no-selection {
@@ -49,7 +51,8 @@ atom-text-editor,
     background-color: @syntax-selection-color;
   }
 
-  .line-number.cursor-line-no-selection, .line.cursor-line {
+  .line-number.cursor-line-no-selection,
+  .line.cursor-line {
     background-color: rgba(80, 80, 80, 0.33);
   }
 
@@ -59,11 +62,17 @@ atom-text-editor,
   color: #d3af86;
 }
 
-.comment, .punctuation.definition.comment {
+.comment,
+.punctuation.definition.comment {
   color: #a57a4c;
 }
 
-.punctuation.definition.string, .punctuation.definition.variable, .punctuation.definition.string, .punctuation.definition.parameters, .punctuation.definition.string, .punctuation.definition.array {
+.punctuation.definition.string,
+.punctuation.definition.variable,
+.punctuation.definition.string,
+.punctuation.definition.parameters,
+.punctuation.definition.string,
+.punctuation.definition.array {
   color: #d3af86;
 }
 
@@ -83,11 +92,15 @@ atom-text-editor,
   color: #dc3958;
 }
 
-.entity.name.function, .meta.require, .support.function.any-method {
+.entity.name.function,
+.meta.require,
+.support.function.any-method {
   color: #8ab1b0;
 }
 
-.support.class, .entity.name.class, .entity.name.type.class {
+.support.class,
+.entity.name.class,
+.entity.name.type.class {
   color: #f06431;
 }
 
@@ -107,7 +120,9 @@ atom-text-editor,
   color: #088649;
 }
 
-.string, .constant.other.symbol, .entity.other.inherited-class {
+.string,
+.constant.other.symbol,
+.entity.other.inherited-class {
   color: #889b4a;
 }
 
@@ -135,7 +150,8 @@ atom-text-editor,
   color: #f79a32;
 }
 
-.entity.other.attribute-name.id, .punctuation.definition.entity {
+.entity.other.attribute-name.id,
+.punctuation.definition.entity {
   color: #8ab1b0;
 }
 
@@ -147,7 +163,9 @@ atom-text-editor,
   color: #f79a32;
 }
 
-.markup.heading, .punctuation.definition.heading, .entity.name.section {
+.markup.heading,
+.punctuation.definition.heading,
+.entity.name.section {
   color: #8ab1b0;
 }
 
@@ -155,14 +173,16 @@ atom-text-editor,
   color: #f79a32;
 }
 
-.markup.bold, .punctuation.definition.bold {
-  font-weight: bold;
+.markup.bold,
+.punctuation.definition.bold {
   color: #f06431;
+  font-weight: bold;
 }
 
-.markup.italic, .punctuation.definition.italic {
-  font-style: italic;
+.markup.italic,
+.punctuation.definition.italic {
   color: #98676a;
+  font-style: italic;
 }
 
 .markup.raw.inline {
@@ -186,8 +206,8 @@ atom-text-editor,
 }
 
 .meta.separator {
-  color: #d3af86;
   background-color: #84613d;
+  color: #d3af86;
 }
 
 .markup.inserted {
@@ -214,11 +234,12 @@ atom-text-editor,
   color: #088649;
 }
 
-.punctuation.section.embedded, .variable.interpolation {
+.punctuation.section.embedded,
+.variable.interpolation {
   color: #7e602c;
 }
 
 .invalid.illegal {
-  color: #221a0f;
   background-color: #dc3958;
+  color: #221a0f;
 }
