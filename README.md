@@ -32,7 +32,7 @@ Also [available](https://github.com/search?q=%40idleberg+kimbie) for these apps:
 
 * Install theme`apm install kimbie-dark` (or use the GUI)
 
-### GitHub
+### Using Git
 
 1. Change directory `cd ~/.atom/packages/`
 2. Clone repository `git clone https://github.com/idleberg/atom-kimbie-light kimbie-dark`
