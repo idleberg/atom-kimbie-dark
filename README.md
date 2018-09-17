@@ -5,7 +5,7 @@
 [![apm](https://img.shields.io/apm/dm/kimbie-dark.svg?style=flat-square)](https://atom.io/themes/kimbie-dark)
 [![Travis branch](https://img.shields.io/travis/idleberg/atom-kimbie-dark/master.svg?style=flat-square)](https://travis-ci.org/idleberg/atom-kimbie-dark)
 
-A color scheme inspired by [Cold Spring Fault Less Youth](http://www.discogs.com/Mount-Kimbie-Cold-Spring-Fault-Less-Youth/master/561611), the second album by British band Mount Kimbie.
+A color scheme inspired by [Cold Spring Fault Less Youth](http://www.discogs.com/Mount-Kimbie-Cold-Spring-Fault-Less-Youth/master/561611), the second album by the British band Mount Kimbie.
 
 ![Screenshot](https://raw.githubusercontent.com/idleberg/atom-kimbie-dark/master/screenshot.png)
 
@@ -47,4 +47,4 @@ This work by Jan T. Sott is licensed under a [Creative Commons Attribution-Share
 
 ## Donate
 
-You are welcome support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/atom-kimbie-dark) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
+You are welcome to support this project using [Flattr](https://flattr.com/submit/auto?user_id=idleberg&url=https://github.com/idleberg/atom-kimbie-dark) or Bitcoin `17CXJuPsmhuTzFV2k4RKYwpEHVjskJktRd`
