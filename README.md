@@ -23,6 +23,7 @@ Also [available](https://github.com/search?q=%40idleberg+kimbie) for these apps:
 * [Sublime Text](https://github.com/idleberg/Kimbie.tmTheme)
 * Terminal
 * TextMate
+* Visual Studio Code
 * Windows Command Prompt
 * Xcode
 
